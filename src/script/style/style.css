@@ -1,0 +1,11 @@
+/* style agar footer terletak dibawah, & ketika halaman nambah footer bergeser kebawah */
+body {
+  font-family: 'Quicksand', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
